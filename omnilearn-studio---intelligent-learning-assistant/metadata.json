@@ -1,0 +1,6 @@
+{
+  "name": "OmniLearn Studio - Intelligent Learning Assistant",
+  "description": "Adaptive AI-powered learning companion featuring multi-modal explanations, Socratic tutoring, interactive concept simulations, flashcards, and knowledge assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
